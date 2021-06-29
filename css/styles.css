@@ -1,0 +1,25 @@
+.logo{
+    height: 40px;
+    width: 100px;
+}
+
+.orange{
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.none{
+    border: 1px solid;
+    border-radius: 8px;
+}
+
+
+.image{
+    clip-path: circle();
+}
+
+*{
+    background-color: rgba(245, 245, 245, 0.589);
+}
